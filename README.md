@@ -21,7 +21,7 @@ There should be certain expectations about the ability to change verbatim whatev
 
 The [issues queue](https://github.com/CarolynFelix/open-data-policy/issues) will be the best way to give us feedback and input, and you should expect a prompt response when submitting issues. Please submit one issue per issue request. This will help to make sure we address each and every issue presented.
 
-If you have a proposed revision in mind, please submit a pull request!
+If you have a proposed revision in mind, please submit a [pull request](https://github.com/CarolynFelix/open-data-policy/pulls)!
 
 **Background Reports**
 
