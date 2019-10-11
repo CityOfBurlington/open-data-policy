@@ -9,7 +9,7 @@ The City of Burlington is opening a process of co-creation with the public to de
 
 **Timeline**
 
-The comment period for the City of Burlington's Open Data Policy **Oct 15-31, 2019**. After the comment period closes, all suggusttions and proposed edits will be taken from Github on October 31, 2019 in order to be draft the final policy. Once the final language is complete and the policy is enacted, the policy and specification will be placed back on Github as well as on the City's website at https://www.burlingtonvt.gov and open data portal to be hosted through OpenDataSoft.
+The comment period for the City of Burlington's Open Data Policy **Oct 15-31, 2019**. After the comment period closes, all suggusttions and proposed edits will be taken from Github on October 31, 2019 in order to be draft the final policy. Once the final language is complete and the policy is enacted, the policy and specification will be placed back on Github as well as on the City's website at https://www.burlingtonvt.gov and open data portal to be hosted through [OpenDataSoft](https://www.opendatasoft.com/) and expencted to launch by the end of the calendar year.
 
 **Expectations**
 
