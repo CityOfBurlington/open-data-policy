@@ -32,4 +32,4 @@ If you have a proposed revision in mind, please submit a pull request!
 
 **Contact Information**
 
-To get in contact with us about the process or to start a discussion about your suggestions: please email Carolyn Felix, BTVStat Analyst (cfelix@burlingtonvt.gov), Scott Duckworkth, Senior Programmer (sduckworth@burlingtonvt.gov), and/or Yosef Borsykowsky, BTVStat Intern (yborsykowsky@burlingtonvt.gov)
+To get in contact with us about the process or to start a discussion about your suggestions: please email Carolyn Felix, BTVStat Analyst at cfelix@burlingtonvt.gov, Scott Duckworkth, Senior Programmer at sduckworth@burlingtonvt.gov, and/or Yosef Borsykowsky, BTVStat Intern  at yborsykowsky@burlingtonvt.gov.
