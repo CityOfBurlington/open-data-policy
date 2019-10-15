@@ -17,7 +17,7 @@ City of Burlington - Draft Open Data Policy
 
 *WHEREAS, the protection of privacy, confidentiality and security will be maintained as a paramount priority while also advancing the government’s transparency and accountability through open data*
 
-**Section 1: Definitions**
+#**Section 1: Definitions**#
 
 **Data**: statistical, factual, quantitative, or qualitative information that is maintained or created by or on behalf of a City Department or potentially other local, State, or Federal agency. 
 
