@@ -17,7 +17,7 @@ City of Burlington - Draft Open Data Policy
 
 *WHEREAS, the protection of privacy, confidentiality and security will be maintained as a paramount priority while also advancing the government’s transparency and accountability through open data*
 
-#**Section 1: Definitions**#
+# **Section 1: Definitions**
 
 **Data**: statistical, factual, quantitative, or qualitative information that is maintained or created by or on behalf of a City Department or potentially other local, State, or Federal agency. 
 
@@ -42,7 +42,7 @@ City of Burlington - Draft Open Data Policy
 **Publishable data**: data which is not protected or sensitive and which has been prepared for release to the public.
 Sensitive information: any data which, if published by the City online, could raise privacy, confidentiality or security concerns or have the potential to jeopardize public health, safety or welfare to an extent that is greater than the potential public benefit of publishing that data. 
 
-**Section 2: Open Data Program**
+# **Section 2: Open Data Program**
 
 a.	The City commits to develop and implement Open Data practices that will allow it to: 
 1.	Proactively share City data when possible and strive to make City data available through the open data portal making it freely available in appropriately varied and useful open formats, with no restrictions on use or reuse, and fully accessible to the broadest range of users;
@@ -56,7 +56,7 @@ c.	The requirements of this Order shall apply to any City department that create
 
 d.	Appropriate resources needed to achieve the goals of this program shall be reviewed annually. These costs may include the modest open data platform expense necessary to publish open data as well as any necessary clarifications or updates to job description changes to formalize staff roles.
 
-**Section 3: Governance**
+# **Section 3: Governance**
 
 a.	Implementation of the Open Data Program will be overseen by the Chief Innovation Officer, who will work with the City’s departments and agencies to: 
 1.	For each City department, the Department Head will appoint a Data Steward who will be responsible for managing that department’s participation in the Open Data Program and the BTVStat Program; 
@@ -71,7 +71,7 @@ a.	Implementation of the Open Data Program will be overseen by the Chief Innovat
 
 b.	In order to increase and improve use of the City’s open data, the Chief Innovation Officer will actively encourage public and City department participation through providing regular opportunities for feedback and collaboration on the usefulness, implications, or potential improvements related to the open data platform.
 
-**Section 4: Central Online Location for Published Data (Data Portal)**
+# **Section 4: Central Online Location for Published Data (Data Portal)**
 
 a.	Published datasets in various formats shall be made publically available on the City’s website or other web-based platform, and available for download. Dedicating datasets to the public domain means that there are no restrictions or requirements placed on use of these datasets. 
 
@@ -79,7 +79,7 @@ b.	Each published dataset should be associated with contact information for the 
 
 c.	City departments will specify a recommended data citation for published City data to encourage responsible reuse of City data.
 
-**Section 5: Open Data Report and Review**
+# **Section 5: Open Data Report and Review**
 a.	Within one year of the effective date of this Executive Order, and thereafter no later than July 1st of each year, the Chief Innovation Officer shall publish an annual Open Data Report. The report shall include analytics around usage and data downloads, an assessment of progress towards achievement of the goals of the City’s Open Data Program and how open data work has furthered or will further the City’s programmatic priorities, and a description and publication timeline for datasets envisioned to be published by the City in the coming year. 
 
 b.	During the review and reporting period, the Chief Innovation Officer should also make suggestions for improving the City’s open data management processes in order to ensure that the City continues to move toward the achievement of the policy’s goals. 
