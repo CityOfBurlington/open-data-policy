@@ -13,15 +13,15 @@ The comment period for the City of Burlington's Open Data Policy **Oct 15-31, 20
 
 **Expectations**
 
-This posting of the draft Open Data Policy is an opportunity to garner greater input and feedback from communinity stakeholders before the policy is finalized.
+This posting of the draft Open Data Policy is an opportunity to garner greater input and feedback from community stakeholders before the policy is finalized.
 
-Given that the policy and specfication must go through the Mayor's office, and other relevant and/or oversight entities such as the Department Information Technology and the City Attorney's office, some suggestions may be interpreted or translated to match required legal terms and definitions.
+Given that the policy will ultimately go through the Mayor's office, and other relevant and/or oversight entities such as the Department Information Technology and the City Attorney's office, some suggestions may be interpreted or translated to match required legal terms and definitions.
 
 **Collaboration and Feedback**
 
 The [issues queue](https://github.com/CarolynFelix/open-data-policy/issues) will be the best way to give us feedback and input, and you should expect a prompt response when submitting issues. Please submit one issue per issue request. This will help to make sure we address each and every issue presented.
 
-If you have a proposed revision in mind, please submit a [pull request](https://github.com/CarolynFelix/open-data-policy/pulls)!
+If you have a proposed revision in mind or a dataset you would like to see published, please submit a [pull request](https://github.com/CarolynFelix/open-data-policy/pulls)!
 
 **Background Reports**
 
@@ -32,4 +32,4 @@ If you have a proposed revision in mind, please submit a [pull request](https://
 
 **Contact Information**
 
-To get in contact with us about the process or to start a discussion about your suggestions: please email Carolyn Felix, BTVStat Analyst at cfelix@burlingtonvt.gov, Scott Duckworkth, Senior Programmer at sduckworth@burlingtonvt.gov, and/or Yosef Borsykowsky, BTVStat Intern  at yborsykowsky@burlingtonvt.gov.
+To get in contact with us about the process or to start a discussion about your suggestions: please email Carolyn Felix, BTVStat Analyst at cfelix@burlingtonvt.gov, Scott Duckworth, Senior Programmer at sduckworth@burlingtonvt.gov, and/or Yosef Borsykowsky, BTVStat Intern  at yborsykowsky@burlingtonvt.gov.
