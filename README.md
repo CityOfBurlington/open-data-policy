@@ -25,7 +25,7 @@ If you have a proposed revision in mind or a dataset you would like to see publi
 
 **Background Reports**
 
-* http://www.opengovdata.org/home/8principles
+* https://public.resource.org/8_principles.html
 * http://opengovernmentinitiative.org/
 * http://sunlightfoundation.com/opendataguidelines/
 * https://opendatapolicyhub.sunlightfoundation.com/collection/
